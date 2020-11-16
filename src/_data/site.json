@@ -1,0 +1,14 @@
+{
+  "name": "サイト名",
+  "title": "ページタイトル",
+  "description": "サイトの概要",
+  "ogpType": "website",
+  "url": "https://example.com",
+  "imgPath": "/assets/images/",
+  "ogpImage": "common/ogp.jpg",
+  "keywords": "サイトのキーワード1, サイトのキーワード2",
+  "fbAppId": "",
+  "fbAdmins": "",
+  "twitterCard": "summary_large_image",
+  "twitterSite": "@SiteAccount"
+}
